@@ -1,1 +1,3 @@
-# Android-labs
+# Android-Studing
+
+Обучение созданию простых приложений на android 
